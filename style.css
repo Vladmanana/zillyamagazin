@@ -1,0 +1,52 @@
+header {
+    text-align: center; 
+ }
+ 
+ .h1{
+     text-align: center;
+     color: darkmagenta;
+ }
+ .stivsmotritnazelye{
+     text-align: center;
+ 
+ }
+ .xd{
+     border: 1px solid green;
+     border-radius:5px  ;
+     color: blueviolet;
+     text-decoration: solid;
+     margin: 6px;
+     padding: 5px;
+     background-color: aquamarine;
+ }
+ .p{
+     border: 5px solid greenyellow;
+     
+ }
+ 
+ 
+ 
+ main{
+     background-color: coral;
+     border: 3px solid rgb(12, 59, 146);
+     border-radius: 3px;
+     margin: 10px;
+     padding: 15px;
+     text-align: center;
+ 
+ }
+ .table{
+     border-radius:6px ;
+     border: 6px solid hotpink ;
+     background-color: hotpink;
+     text-align: center;
+   
+ }
+ body{
+     background-color: cornflowerblue;
+ }
+ 
+ footer{
+     text-align: center;
+ }
+ 
